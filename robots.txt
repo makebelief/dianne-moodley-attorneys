@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Independent demo. HTML pages use noindex; WhatsApp/Facebook can fetch Open Graph metadata.
