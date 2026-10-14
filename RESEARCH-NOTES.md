@@ -24,3 +24,8 @@
 - Confirm office contact info, domain and current schedule before official go-live. The firm already owns an unrelated active website; this is not presented as its first website.
 - The social sharing image is a *branding asset*, not a second on-page use of the attorney portrait.
 - Social preview host currently assumes https://dianne-moodley-attorneys.vercel.app ; adjust absolute URLs if deployment host differs.
+
+## Website V2 branding and image placement
+- User instructed that the firm’s brand is **black and gold, not navy and gold**.
+- User explicitly requested the attorney image appear in Home, About Us, and Our Attorney. This intentional reuse takes priority over the normal content-photo uniqueness standard for this website only.
+- The older reference footer text was inappropriate to Dianne Moodley’s verified practice areas and has been corrected.
